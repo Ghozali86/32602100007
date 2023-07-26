@@ -1,4 +1,3 @@
-<!-- Ainul Irsyad -->
 <?php
 
 namespace App\Controllers;
