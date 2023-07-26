@@ -11,7 +11,7 @@
             <tr>
                 <th>NO</th>
             <th>Nama</th>
-            <th>id barang</th>
+            <th>ID barang</th>
             <th>Kategori</th>
             <th>Harga</th>
             <th>Stok</th>
